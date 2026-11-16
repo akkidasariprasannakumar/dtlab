@@ -1,0 +1,3 @@
+def sub(a,b):
+    print("difference=",a - b)
+sub(20,10)
