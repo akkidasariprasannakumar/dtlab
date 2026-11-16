@@ -1,0 +1,3 @@
+def square(n):
+    print("square =", n * n)
+square(9)
